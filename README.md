@@ -11,12 +11,14 @@ PHP Components Library is a library whose main purpose is to integrate component
 | Tailwind | http://tailwindcss.com |
 | Flowbite | &nbsp;&nbsp;&nbsp;&nbsp;✅&nbsp;&nbsp;&nbsp;&nbsp;included |
 
-Add the code component you like in your assets folder and include them in your php files
+- Add the code component you like in your assets folder
 
 Example:
 ```php
 include_once 'assets/path_to_file/buttons.php';
 ```
+- Include the component in your php files.
+
 Example of a button component in your html code (must be a .php file):
 ```php
 //buttonAdd('Label of the button', 'page to go when clicked',padding [optionnal])
