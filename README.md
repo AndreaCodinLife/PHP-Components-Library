@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/AndreaCodinLife/PHP-Components-Library/blob/e1f472dc58078708073b7775679de721fac5f5d4/php-components-library-logo.png" alt="drawing" width="200"/></p>
 
-# PHP Components Library
+# PHP Components Library  <img src="https://img.shields.io/badge/Status-Beta-success" />
 PHP Components Library is a library whose main purpose is to integrate components with PHP functions.
 
 ## How to use it
@@ -11,7 +11,7 @@ PHP Components Library is a library whose main purpose is to integrate component
 | Tailwind | http://tailwindcss.com |
 | Flowbite | &nbsp;&nbsp;&nbsp;&nbsp;✅&nbsp;&nbsp;&nbsp;&nbsp;included |
 
-- Add the code component you like in your assets folder
+- Add the code component you like in your assets folder.
 
 Example:
 ```php
