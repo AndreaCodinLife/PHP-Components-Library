@@ -20,10 +20,10 @@ include_once 'assets/path_to_file/buttons.php';
 Example of a button component in your html code (must be a .php file):
 ```php
 //buttonAdd('Label of the button', 'page to go when clicked',padding [optionnal])
-<?php buttonAdd('Add paragraph', 'add_paragraph.php', TRUE); ?>
+<?php buttonAdd('ADD PARAGRAPH', 'add_paragraph.php'); ?>
 ```
-Result:
-
+Result:<br>
+<img src="https://github.com/AndreaCodinLife/PHP-Components-Library/blob/3231efa0eb48e5252fd085f016afeba307deb057/add-paragraph-button.png" alt="drawing" width="200"/>
 
 ## Features
 
