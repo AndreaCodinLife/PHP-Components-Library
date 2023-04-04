@@ -123,6 +123,8 @@ function buttonAdd($value, $onclick, $padding = False)
         <br><br>
 <?php }
 } ?>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.4/flowbite.min.js"></script>
 
 
-<script src="https://unpkg.com/flowbite@1.5.3/dist/flowbite.js"></script>
+
+
